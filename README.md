@@ -15,7 +15,6 @@ This repository serves as the central hub for Orbitant's GitHub organization con
 
 ## 📞 Contact
 
-- **Website**: [weorbitant.com](https://weorbitant.com)
 - **Email**: hola@weorbitant.com
 
 ---
